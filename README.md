@@ -3,6 +3,11 @@ A tool for save your password and you can make password by your information and 
 
 ### Index
 - Password Security
+  - [Scren Shot](https://github.com/SinaYeganeh0-0/PasswordSecurity#scren-shot)
+  - [What can it do?](https://github.com/SinaYeganeh0-0/PasswordSecurity#what-this-tool-can-do)
+  - [How to install and use?](https://github.com/SinaYeganeh0-0/PasswordSecurity#how-to-install-and-use)
+  - [Useg](https://github.com/SinaYeganeh0-0/PasswordSecurity#useg)
+  - [Other repo](https://github.com/SinaYeganeh0-0/PasswordSecurity#other-repo)
 
 ### Scren Shot
 
