@@ -1,0 +1,10 @@
+1- thing about the tool and how to code ,,,
+2- write code & make back-end
+3- make front-end
+4- checkInstall.py
+5- RunMe.py => the main of project
+6- Commit to github 
+7- README.md
+8- See Result
+
+99- dveleop ,,,
