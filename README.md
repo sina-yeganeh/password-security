@@ -1,7 +1,7 @@
 # Password Security
 A tool for save your password and you can make password by your information and any charecter, and have a biatyful frontEnd,,, 
 
-### Index
+## Index
 - Password Security
   - [Scren Shot](https://github.com/SinaYeganeh0-0/PasswordSecurity#scren-shot)
   - [What can it do?](https://github.com/SinaYeganeh0-0/PasswordSecurity#what-this-tool-can-do)
@@ -9,11 +9,11 @@ A tool for save your password and you can make password by your information and 
   - [Useg](https://github.com/SinaYeganeh0-0/PasswordSecurity#useg)
   - [Other repo](https://github.com/SinaYeganeh0-0/PasswordSecurity#other-repo)
 
-### Scren Shot
+## Scren Shot
 
 ![ROOT](https://s17.picofile.com/file/8420584976/screnShot.PNG)
 
-### What this tool can do?
+## What this tool can do?
 
 * **Can make password**
   - By your inforamtion
@@ -27,7 +27,7 @@ A tool for save your password and you can make password by your information and 
   - Show the saved password
   - Save new password
   
-### How to Install and Use?
+## How to Install and Use?
 
 #### Install
 
@@ -43,11 +43,11 @@ A tool for save your password and you can make password by your information and 
 
 - It is so simpel, so I don't write expelation,,,
 
-### Useg
+## Useg
 
-- Jast use *python*
+- Just use *python*
 
-### Other repo:
+## Other repo:
 - [Super Doc++](https://github.com/SinaYeganeh0-0/SuperDoc)
 
 - [PC Killer](https://github.com/SinaYeganeh0-0/PCkiller)
