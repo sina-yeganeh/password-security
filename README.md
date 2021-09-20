@@ -9,7 +9,7 @@ A tool for save your password and you can make password by your information and 
   - [Useg](https://github.com/SinaYeganeh0-0/PasswordSecurity#useg)
   - [Other repo](https://github.com/SinaYeganeh0-0/PasswordSecurity#other-repo)
 
-## Scren Shot
+## Screen Shot
 
 ![ROOT](https://s17.picofile.com/file/8420584976/screnShot.PNG)
 
@@ -21,7 +21,7 @@ A tool for save your password and you can make password by your information and 
     - family
     - age
   - By chareter
-    - All of the charcter in your keybord
+    - All of the character in your keyboard
   
 * **Can save password**
   - Show the saved password
